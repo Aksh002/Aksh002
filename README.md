@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,35:312E81,70:7C3AED,100:0F172A&text=Akshit%20Gangwar&fontColor=F8FAFC&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Product%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,28:111827,52:312E81,76:7C3AED,100:020617&text=AKSHIT%20GANGWAR&fontColor=F8FAFC&fontSize=56&fontAlignY=36&desc=FULL-STACK%20ENGINEER%20%2F%2F%20AI-CENTRIC%20PRODUCT%20SYSTEMS&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=920&lines=Backend-Focused+Full-Stack+Engineer;AI%2FML+%2B+Product+Engineering+Mindset;Building+Secure%2C+Scalable%2C+Production-Grade+Systems;FastAPI+%7C+Next.js+%7C+PostgreSQL+%7C+Cloudflare+Workers" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2400&pause=650&color=22D3EE&center=true&vCenter=true&width=980&lines=%3E+booting+full-stack+systems...;%3E+shipping+AI-centric+product+workflows...;%3E+Next.js+%2B+FastAPI+%2B+PostgreSQL+%2B+Redis;%3E+secure+APIs+%2F%2F+workers+%2F%2F+LLM+repair+loops" alt="Typing SVG" />
 </a>
-
-<br />
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-Manipal%20Institute%20of%20Technology-7C3AED?style=flat-square&labelColor=020617" alt="B.Tech CSE" />
 <img src="https://img.shields.io/badge/Minor-Data%20Science-6366F1?style=flat-square&labelColor=020617" alt="Minor in Data Science" />
@@ -16,17 +14,36 @@
 <br />
 <br />
 
+<sub><b>LINKS / SOCIALS / CODING</b></sub>
+
+<br />
+
 <a href="https://akshitgangwar.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6D28D9" alt="Portfolio" />
+  <img height="34" src="https://img.shields.io/badge/web-151122?style=for-the-badge&logo=vercel&logoColor=F5D0FE&labelColor=151122" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/akshit-gangwar-b93840282">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4F46E5" alt="LinkedIn" />
+  <img height="34" src="https://img.shields.io/badge/in-151122?style=for-the-badge&logo=linkedin&logoColor=F5D0FE&labelColor=151122" alt="LinkedIn" />
 </a>
 <a href="mailto:akshitgangwar02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" alt="Email" />
+  <img height="34" src="https://img.shields.io/badge/mail-151122?style=for-the-badge&logo=gmail&logoColor=F5D0FE&labelColor=151122" alt="Email" />
 </a>
 <a href="https://github.com/Aksh002">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=312E81" alt="GitHub" />
+  <img height="34" src="https://img.shields.io/badge/git-151122?style=for-the-badge&logo=github&logoColor=F5D0FE&labelColor=151122" alt="GitHub" />
+</a>
+<a href="https://leetcode.com/u/akki_gang_002">
+  <img height="34" src="https://img.shields.io/badge/LC-151122?style=for-the-badge&logo=leetcode&logoColor=F5D0FE&labelColor=151122" alt="LeetCode" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/Aksh002">
+  <img height="34" src="https://img.shields.io/badge/GFG-151122?style=for-the-badge&logo=geeksforgeeks&logoColor=F5D0FE&labelColor=151122" alt="GeeksforGeeks" />
+</a>
+<a href="https://www.hackerrank.com/profile/Aksh002">
+  <img height="34" src="https://img.shields.io/badge/HR-151122?style=for-the-badge&logo=hackerrank&logoColor=F5D0FE&labelColor=151122" alt="HackerRank" />
+</a>
+<a href="https://www.codechef.com/users/Aksh002">
+  <img height="34" src="https://img.shields.io/badge/CC-151122?style=for-the-badge&logo=codechef&logoColor=F5D0FE&labelColor=151122" alt="CodeChef" />
+</a>
+<a href="./Akshit_Gangwar_Resume.pdf">
+  <img height="34" src="https://img.shields.io/badge/CV-151122?style=for-the-badge&logo=readme&logoColor=F5D0FE&labelColor=151122" alt="Resume" />
 </a>
 
 <br />
@@ -35,6 +52,70 @@
 <img src="https://komarev.com/ghpvc/?username=Aksh002&style=flat-square&color=7C3AED&label=Profile%20Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Aksh002?style=flat-square&color=6366F1&labelColor=020617&label=Followers" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Aksh002?style=flat-square&color=8B5CF6&labelColor=020617&label=Stars" alt="GitHub stars" />
+
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,35:7C3AED,70:38BDF8,100:020617" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2400&pause=700&color=F5D0FE&center=true&vCenter=true&width=860&lines=%7B+%22profile%22%3A+%22Akshit+Gangwar%22+%7D;%7B+%22role%22%3A+%22Full-stack+Software+Engineer%22+%7D;%7B+%22focus%22%3A+%22Backend+systems+%2B+AI+product+workflows%22+%7D;%7B+%22status%22%3A+%22Open+to+SWE+internships%22+%7D" alt="Profile terminal typing" />
+
+</div>
+
+```json
+{
+  "name": "Akshit Gangwar",
+  "role": "Full-stack Software Engineer",
+  "focus": [
+    "backend-first full-stack products",
+    "API design and database-backed systems",
+    "AI-centric product workflows",
+    "production deployment and reliability"
+  ],
+  "core_stack": {
+    "frontend": ["Next.js", "React", "TypeScript", "TailwindCSS"],
+    "backend": ["FastAPI", "Node.js", "Express", "Hono.js"],
+    "data": ["PostgreSQL", "Prisma", "Redis", "Supabase"],
+    "cloud": ["Vercel", "Docker", "Cloudflare Workers", "AWS"]
+  },
+  "current_status": "Looking for software engineering internships and product teams"
+}
+```
+
+---
+
+<h2 align="center">Portfolio & Resume</h2>
+
+<div align="center">
+
+```txt
++------------------------ recruiter quick-look ------------------------+
+| portfolio preview        live website + downloadable resume below     |
++----------------------------------------------------------------------+
+```
+
+<a href="https://akshitgangwar.vercel.app">
+  <img width="50%" src="assets/portfolio-preview.png" alt="Akshit Gangwar portfolio landing page preview" />
+</a>
+
+<br />
+<br />
+
+<a href="https://akshitgangwar.vercel.app">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6D28D9" alt="View Portfolio" />
+</a>
+<a href="./Akshit_Gangwar_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download%20Resume-0F172A?style=for-the-badge&logo=readme&logoColor=white&labelColor=2563EB" alt="Download Resume" />
+</a>
+<a href="mailto:akshitgangwar02@gmail.com">
+  <img src="https://img.shields.io/badge/Contact%20Me-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" alt="Contact Me" />
+</a>
 
 </div>
 
@@ -46,13 +127,16 @@ I am a full-stack software engineer with a backend-heavy foundation, building pr
 
 I have designed and shipped applications across Next.js frontends, FastAPI services, serverless edge platforms, PostgreSQL-backed systems, Redis/RQ worker pipelines, authentication layers, and cloud deployment environments. I care about clean architecture, secure ownership boundaries, scalable product workflows, and building software that can survive real users instead of only looking good in a demo.
 
-**Open To**
+**Currently looking for**
 
 <div align="center">
 
-| Software Engineering | Backend Engineering | Full-Stack Development | AI Product Engineering | Open Source |
-| :---: | :---: | :---: | :---: | :---: |
-| Internships | Production APIs | Next.js + FastAPI | LLM Workflows | Collaboration |
+| Role Fit | What I Bring |
+| :--- | :--- |
+| Software Engineering Internships | Full-stack product execution, backend APIs, database design, auth, deployment, and clean delivery |
+| Backend / Platform Internships | FastAPI, Node.js, PostgreSQL, Redis/RQ, queues, webhooks, service boundaries, and system design fundamentals |
+| AI Product Engineering | LLM-powered workflows, validation/repair loops, prompt-to-code systems, and practical AI features inside real apps |
+| Open Source / Product Teams | Strong ownership, readable code, GitHub-based collaboration, and willingness to work across frontend, backend, and infra |
 
 </div>
 
@@ -103,6 +187,20 @@ I have designed and shipped applications across Next.js frontends, FastAPI servi
 ---
 
 <h2 align="center">Featured Projects</h2>
+
+```txt
++----------------------+---------------------+--------------------+------------------+
+| BUILD                | SYSTEM TYPE         | CORE SIGNAL        | STATUS           |
+|----------------------+---------------------+--------------------+------------------|
+| Manim AI             | AI video platform   | LLM -> code -> MP4 | active product   |
+| Learning Blogger     | edge publishing     | workers + postgres | shipped app      |
+| Payments Platform    | fintech backend     | auth + webhooks    | architecture lab |
+| Falak'25             | event infra         | 50K+ visitors      | production run   |
+| TenFlix ML           | recommendation ML   | temporal drift     | active research  |
+| Bengaluru Rent       | map-first product   | rent transparency  | active product   |
+| GourmetHub Adv       | full-stack app      | restaurant flows   | product build    |
++----------------------+---------------------+--------------------+------------------+
+```
 
 <details open>
 <summary><b>AI-Powered Manim Video Generation Platform</b></summary>
@@ -202,6 +300,63 @@ Led the technical execution of a real-world event platform, managing architectur
 
 </details>
 
+<details>
+<summary><b>TenFlix ML Recommendation System</b></summary>
+
+<br />
+
+Hybrid recommendation system focused on cold-start handling, temporal preference drift, lifecycle-aware recommendations, and product-facing recommendation service boundaries.
+
+| Metric | Details |
+| :--- | :--- |
+| Stack | Python, Jupyter Notebook, scikit-learn, Pandas, NumPy, SciPy, FastAPI adapter, PostgreSQL/Supabase integration path |
+| Scope | MovieLens-based recommendation experiments, V3/V4 methodology, full-dataset evaluation, artifact validation, service contracts |
+| ML Focus | Matrix factorization, content-based profiles, lifecycle routing, temporal drift analysis, recency-aware ranking, MMR diversity |
+| Product Thinking | Recommendation APIs, rating ingestion, preview flow, artifact promotion gates, web-app integration boundary |
+| Repository | [Aksh002/tenflix-ml](https://github.com/Aksh002/tenflix-ml) |
+
+Built as a recommendation systems project that goes beyond notebook-only modeling by adding evaluation gates, serving contracts, artifact promotion logic, and a path toward a product-facing recommendation layer.
+
+</details>
+
+<details>
+<summary><b>Bengaluru Rent Transparency Platform</b></summary>
+
+<br />
+
+Map-first rent intelligence product for Bengaluru where renters can anonymously drop rent pins, inspect nearby rental reality, list available flats, register as seekers, and use watchlists for area alerts.
+
+| Metric | Details |
+| :--- | :--- |
+| Stack | Next.js 15, TypeScript, Tailwind CSS v4, Supabase Postgres, PostGIS, pgcrypto, Zustand, TanStack Query, Google Maps, Vercel |
+| Scope | Anonymous rent pins, map filters, available-flat listings, seeker registration, watchlists, ratings, comments, admin dashboard |
+| Backend | Next.js Route Handlers, server-side validation, anonymous auth ownership, encrypted contacts, cron-protected agents |
+| Safety | Privacy-aware coordinate rounding, IP-hash throttling, report flow, moderation queue support |
+| Repository | [Aksh002/bengaluru_rent](https://github.com/Aksh002/bengaluru_rent) |
+
+Designed around a clear product principle: help people understand local rent reality quickly without login friction, broker funnels, or exposing personal information.
+
+</details>
+
+<details>
+<summary><b>GourmetHub Advanced</b></summary>
+
+<br />
+
+Full-stack restaurant/product application built with a React + Express TypeScript architecture and a modern component-heavy frontend.
+
+| Metric | Details |
+| :--- | :--- |
+| Stack | React, TypeScript, Vite, Express, Drizzle ORM, PostgreSQL/Neon, Tailwind CSS, Radix UI, TanStack Query |
+| Scope | Client/server/shared architecture with typed frontend flows, API backend, database schema tooling, and production build scripts |
+| Frontend | Radix UI components, forms, dialogs, menus, tabs, toasts, charts, QR scanner support, responsive UI primitives |
+| Backend | Express server, Drizzle ORM, validation with Zod, session/auth-oriented dependencies, PostgreSQL integration |
+| Repository | [Aksh002/GourmetHub_Adv](https://github.com/Aksh002/GourmetHub_Adv) |
+
+Included as a full-stack TypeScript product build demonstrating frontend composition, backend API structure, shared schema thinking, and database-backed application development.
+
+</details>
+
 ---
 
 <h2 align="center">Experience</h2>
@@ -268,24 +423,19 @@ Backend and full-stack ownership for a production event platform serving high-tr
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh002&theme=github_dark" alt="GitHub profile summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh002&amp;theme=github_dark" alt="GitHub profile summary" />
 
 <br />
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksh002&theme=github_dark" alt="GitHub stats summary" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aksh002&theme=github_dark&utcOffset=5.5" alt="Productive time summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksh002&amp;theme=github_dark" alt="GitHub stats summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aksh002&amp;theme=github_dark&amp;utcOffset=5.5" alt="Productive time summary" />
 
 <br />
 <br />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksh002&theme=github_dark" alt="Repositories per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksh002&theme=github_dark" alt="Most committed languages" />
-
-<br />
-<br />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aksh002&theme=midnight-purple&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksh002&amp;theme=github_dark" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksh002&amp;theme=github_dark" alt="Most committed languages" />
 
 </div>
 
@@ -295,7 +445,7 @@ Backend and full-stack ownership for a production event platform serving high-tr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh002&bg_color=020617&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&hide_border=true&radius=8" alt="Contribution graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh002&amp;bg_color=020617&amp;color=22D3EE&amp;line=8B5CF6&amp;point=38BDF8&amp;area=true&amp;area_color=312E81&amp;hide_border=true&amp;radius=8" alt="Contribution graph" />
 
 </div>
 
@@ -310,6 +460,25 @@ Backend and full-stack ownership for a production event platform serving high-tr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+</div>
+
+---
+
+<h2 align="center">Learning Repositories</h2>
+
+<div align="center">
+
+| Repository | Focus |
+| :--- | :--- |
+| [notes-100xdevs](https://github.com/Aksh002/notes-100xdevs) | Web development, backend engineering, DevOps, cohort notes |
+| [LearningDSA](https://github.com/Aksh002/LearningDSA) | Data structures, algorithms, problem solving practice |
+| [Data-Analytics-Course-Notes](https://github.com/Aksh002/Data-Analytics-Course-Notes) | Data analytics coursework and learning notes |
+| [ML-for-DataAnalytics-Course-Notes](https://github.com/Aksh002/ML-for-DataAnalytics-Course-Notes) | Machine learning concepts for analytics workflows |
+| [Data_Visualisation_Course_Notes](https://github.com/Aksh002/Data_Visualisation_Course_Notes) | Data visualization course notes |
+| [CS50p-Notes](https://github.com/Aksh002/CS50p-Notes) | Python programming notes from CS50P |
+| [CS50_database-sql_Notes](https://github.com/Aksh002/CS50_database-sql_Notes) | SQL and database fundamentals |
+| [ML_lab](https://github.com/Aksh002/ML_lab) | Machine learning lab work and experiments |
 
 </div>
 
@@ -336,7 +505,7 @@ Exploring:
   - Observability for AI workflows
   - High-performance API design
 
-Open To:
+Looking For:
   - Software engineering internships
   - Backend engineering roles
   - AI product engineering collaborations
