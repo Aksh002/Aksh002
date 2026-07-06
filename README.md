@@ -7,14 +7,11 @@
 </a>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-Manipal%20Institute%20of%20Technology-7C3AED?style=flat-square&labelColor=020617" alt="B.Tech CSE" />
-<img src="https://img.shields.io/badge/Minor-Data%20Science-6366F1?style=flat-square&labelColor=020617" alt="Minor in Data Science" />
-<img src="https://img.shields.io/badge/CGPA-8.78%2F10-8B5CF6?style=flat-square&labelColor=020617" alt="CGPA" />
 <img src="https://img.shields.io/badge/Bengaluru-India-3B82F6?style=flat-square&labelColor=020617" alt="Location" />
 
 <br />
 <br />
 
-<sub><b>LINKS / SOCIALS / CODING</b></sub>
 
 <br />
 
@@ -36,12 +33,12 @@
 <a href="https://www.geeksforgeeks.org/user/Aksh002">
   <img height="34" src="https://img.shields.io/badge/GFG-151122?style=for-the-badge&logo=geeksforgeeks&logoColor=F5D0FE&labelColor=151122" alt="GeeksforGeeks" />
 </a>
-<a href="https://www.hackerrank.com/profile/Aksh002">
+<!-- <a href="https://www.hackerrank.com/profile/Aksh002">
   <img height="34" src="https://img.shields.io/badge/HR-151122?style=for-the-badge&logo=hackerrank&logoColor=F5D0FE&labelColor=151122" alt="HackerRank" />
 </a>
 <a href="https://www.codechef.com/users/Aksh002">
   <img height="34" src="https://img.shields.io/badge/CC-151122?style=for-the-badge&logo=codechef&logoColor=F5D0FE&labelColor=151122" alt="CodeChef" />
-</a>
+</a> -->
 <a href="./Akshit_Gangwar_Resume.pdf">
   <img height="34" src="https://img.shields.io/badge/CV-151122?style=for-the-badge&logo=readme&logoColor=F5D0FE&labelColor=151122" alt="Resume" />
 </a>
@@ -101,7 +98,7 @@
 ```
 
 <a href="https://akshitgangwar.vercel.app">
-  <img width="50%" src="assets/portfolio-preview.png" alt="Akshit Gangwar portfolio landing page preview" />
+  <img width="62%" src="assets/portfolio-preview.png" alt="Akshit Gangwar portfolio landing page preview" />
 </a>
 
 <br />
@@ -116,6 +113,28 @@
 <a href="mailto:akshitgangwar02@gmail.com">
   <img src="https://img.shields.io/badge/Contact%20Me-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7C3AED" alt="Contact Me" />
 </a>
+
+</div>
+
+---
+
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh002&amp;theme=github_dark" alt="GitHub profile summary" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksh002&amp;theme=github_dark" alt="GitHub stats summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aksh002&amp;theme=github_dark&amp;utcOffset=5.5" alt="Productive time summary" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksh002&amp;theme=github_dark" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksh002&amp;theme=github_dark" alt="Most committed languages" />
 
 </div>
 
@@ -416,30 +435,6 @@ Backend and full-stack ownership for a production event platform serving high-tr
 </a>
 
 </div>
-
----
-
-<h2 align="center">GitHub Analytics</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh002&amp;theme=github_dark" alt="GitHub profile summary" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksh002&amp;theme=github_dark" alt="GitHub stats summary" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aksh002&amp;theme=github_dark&amp;utcOffset=5.5" alt="Productive time summary" />
-
-<br />
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksh002&amp;theme=github_dark" alt="Repositories per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksh002&amp;theme=github_dark" alt="Most committed languages" />
-
-</div>
-
----
 
 <h2 align="center">Contribution Activity</h2>
 
