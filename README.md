@@ -127,20 +127,7 @@
 
 <h2 align="center">What I Build</h2>
 
-I am a full-stack software engineer with a backend-heavy foundation. I build production-grade web platforms across API design, authentication, databases, worker queues, deployment workflows, and user-facing product experiences.
-
-My strongest positioning is full-stack product engineering with AI-centric systems: practical LLM workflows, reliable backend pipelines, prompt-to-code generation, validation and repair loops, and products that can survive real users instead of only looking good in a demo.
-
-<div align="center">
-
-| Role Fit | Signal |
-| :--- | :--- |
-| Full-Stack Development | Next.js interfaces, FastAPI/Node backends, auth, dashboards, deployment-ready products |
-| Backend / Platform | PostgreSQL, Prisma, Redis/RQ, queues, webhooks, service boundaries, artifact delivery |
-| AI Product Engineering | LLM-powered workflows, prompt-to-code systems, validation, repair loops, BYOK patterns |
-| Product Ownership | Shipped event, fintech, publishing, recommendation, map-first, and AI workflow products |
-
-</div>
+I build backend-heavy full-stack products across API design, authentication, databases, worker queues, deployment, and user-facing workflows. My strongest positioning is full-stack product engineering with AI-centric systems: practical LLM workflows, validation and repair loops, and products designed to work beyond the demo.
 
 ---
 
@@ -188,7 +175,7 @@ My strongest positioning is full-stack product engineering with AI-centric syste
 
 </div>
 
-<details open>
+<details>
 <summary><b>AI-Powered Manim Video Generation Platform</b></summary>
 
 Full-stack prompt-to-video platform that converts educational prompts into validated Manim code with MP4 preview, download flows, signed artifact delivery, and S3/R2-compatible storage.
