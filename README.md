@@ -30,7 +30,7 @@
 <a href="https://leetcode.com/u/akki_gang_002">
   <img height="34" src="https://img.shields.io/badge/LC-151122?style=for-the-badge&logo=leetcode&logoColor=F5D0FE&labelColor=151122" alt="LeetCode" />
 </a>
-<a href="https://www.geeksforgeeks.org/user/Aksh002">
+<a href="https://www.geeksforgeeks.org/profile/akshitganwq8?tab=activity">
   <img height="34" src="https://img.shields.io/badge/GFG-151122?style=for-the-badge&logo=geeksforgeeks&logoColor=F5D0FE&labelColor=151122" alt="GeeksforGeeks" />
 </a>
 <!-- <a href="https://www.hackerrank.com/profile/Aksh002">
