@@ -264,11 +264,52 @@ Backend and full-stack ownership for a production event platform serving high-tr
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aksh002&theme=github_dark" alt="GitHub profile summary" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aksh002&theme=github_dark" alt="GitHub stats summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aksh002&theme=github_dark&utcOffset=5.5" alt="Productive time summary" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aksh002&theme=github_dark" alt="Repositories per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aksh002&theme=github_dark" alt="Most committed languages" />
+
+<br />
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Aksh002&theme=midnight-purple&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak stats" />
+
+</div>
+
+---
+
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh002&bg_color=020617&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&hide_border=true&radius=8" alt="Contribution graph" />
+
+</div>
+
+---
+
+<h2 align="center">Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
