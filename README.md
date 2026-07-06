@@ -42,9 +42,9 @@
 
 <h2 align="center">About</h2>
 
-I am a backend-focused software engineer and full-stack developer building production-grade web platforms with strong foundations in system architecture, API design, authentication, databases, and deployment workflows. My work sits at the intersection of software engineering, AI-enabled products, and performance-focused backend systems.
+I am a full-stack software engineer with a backend-heavy foundation, building production-grade web platforms with strong emphasis on system architecture, API design, authentication, databases, and deployment workflows. My strongest positioning is full-stack product engineering with AI-centric systems: practical LLM workflows, reliable backend pipelines, and user-facing products that ship.
 
-I have designed and shipped applications across serverless edge platforms, FastAPI services, Next.js frontends, PostgreSQL-backed systems, Redis/RQ worker pipelines, authentication layers, and cloud deployment environments. I care about clean architecture, secure ownership boundaries, scalable product workflows, and building systems that can survive real users instead of only looking good in a demo.
+I have designed and shipped applications across Next.js frontends, FastAPI services, serverless edge platforms, PostgreSQL-backed systems, Redis/RQ worker pipelines, authentication layers, and cloud deployment environments. I care about clean architecture, secure ownership boundaries, scalable product workflows, and building software that can survive real users instead of only looking good in a demo.
 
 **Open To**
 
@@ -86,17 +86,17 @@ I have designed and shipped applications across serverless edge platforms, FastA
 
 ---
 
-<h2 align="center">AI / ML Expertise</h2>
+<h2 align="center">Full-Stack + AI Engineering</h2>
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain | Focus | Details |
 | :--- | :---: | :--- |
-| LLM Application Engineering | Advanced | Prompt-to-code generation, repair loops, validation pipelines, Monaco-based editing, LLM-compatible BYOK workflows |
-| AI Video Generation | Advanced | Manim code generation, MP4 rendering, artifact storage, regeneration, cancellation, render history, quality evaluation |
-| ML Foundations | Intermediate | Data science minor, ML lab work, analytics coursework, model-oriented experimentation, notebook-driven learning |
-| AI System Reliability | Advanced | AST validation, deterministic repair, sandboxed execution, structured job metadata, retry and health-check flows |
-| Data & Analytics | Intermediate | PostgreSQL modeling, Prisma workflows, data visualization notes, analytics coursework, product metrics interpretation |
+| Full-Stack Product Development | Primary | Next.js interfaces, FastAPI/Node backends, auth flows, dashboards, database-backed workflows, and deployment-ready products |
+| AI Application Engineering | Primary | Prompt-to-code generation, repair loops, validation pipelines, Monaco-based editing, and LLM-compatible BYOK workflows |
+| Backend Systems | Primary | REST APIs, job queues, Redis/RQ workers, Prisma/PostgreSQL models, service boundaries, and artifact delivery |
+| AI Reliability | Applied | AST validation, deterministic repair, sandboxed execution, structured job metadata, retries, and health-check flows |
+| Data & ML Foundations | Supporting | Data science minor, ML lab work, analytics coursework, notebook experimentation, and product metrics interpretation |
 
 </div>
 
@@ -229,49 +229,17 @@ Backend and full-stack ownership for a production event platform serving high-tr
 
 ---
 
-<h2 align="center">Achievements</h2>
+<h2 align="center">Coursework</h2>
 
 <div align="center">
 
-| Recognition | Details |
+| Program | Focus |
 | :--- | :--- |
-| Production Scale Delivery | Built and operated Falak'25 platform for 50,000+ visitors and 6,500+ registered users |
-| Secure Ticketing Systems | Supported 5,000+ ticket sales through authenticated, role-aware workflows |
-| Academic Performance | B.Tech CSE with Minor in Data Science and 8.78/10 CGPA |
-| Backend Architecture | Built edge APIs, worker pipelines, PostgreSQL-backed systems, and service-oriented workflows |
-| Engineering Leadership | Led a 5-member UI/UX team and coordinated GitHub-based delivery for a real event platform |
+| [Web Development and DevOps Cohort by Harkirat](https://github.com/Aksh002/notes-100xdevs) | Full-stack development, backend systems, DevOps, deployment workflows |
+| [Introduction to Java and Object-Oriented Programming](https://coursera.org/account/accomplishments/verify/YUC1Q2700IW8) | Java fundamentals, OOP principles, structured programming |
+| B.Tech CSE Minor in Data Science | Data structures, DBMS, system design, networks, analytics, ML foundations |
 
 </div>
-
----
-
-<h2 align="center">Certifications</h2>
-
-<h3 align="center">AWS</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20%26%20DevOps%20Track-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=020617" alt="AWS Cloud and DevOps" />
-</p>
-
-<h3 align="center">Oracle</h3>
-
-<p align="center">
-  <a href="https://coursera.org/account/accomplishments/verify/YUC1Q2700IW8">
-    <img src="https://img.shields.io/badge/Oracle%20%2F%20Java-OOP%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=020617" alt="Java OOP Foundations" />
-  </a>
-</p>
-
-<h3 align="center">NPTEL</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Science%20%26%20Analytics-4F46E5?style=for-the-badge&labelColor=020617" alt="NPTEL Data Science and Analytics" />
-</p>
-
-<h3 align="center">Cisco</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=020617" alt="Cisco Networking Fundamentals" />
-</p>
 
 ---
 
@@ -296,50 +264,11 @@ Backend and full-stack ownership for a production event platform serving high-tr
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aksh002&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=midnight-purple&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&icon_color=8B5CF6" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.demolab.com?user=Aksh002&theme=midnight-purple&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8" alt="GitHub streak" />
-
-<br />
-
-<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksh002&layout=compact&hide_border=true&theme=midnight-purple&bg_color=020617&title_color=A78BFA&text_color=E5E7EB&langs_count=10" alt="Top languages" />
-
-</div>
-
----
-
-<h2 align="center">GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aksh002&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophies" />
-
-</div>
-
----
-
-<h2 align="center">Contribution Activity</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aksh002&bg_color=020617&color=C4B5FD&line=8B5CF6&point=38BDF8&area=true&area_color=6D28D9&hide_border=true&radius=8" alt="Contribution graph" />
-
-</div>
-
----
-
-<h2 align="center">Contribution Snake</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Aksh002/Aksh002/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
